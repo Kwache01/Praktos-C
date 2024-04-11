@@ -1,0 +1,8 @@
+﻿  Snake.cpp
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(98,17): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "x"
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(98,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "y"
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(98,19): warning C4552: ">=": результат выражения не используется
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(98,43): error C2059: синтаксическая ошибка: )
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(99,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(115,9): error C3861: algorithm: идентификатор не найден
+C:\Users\Amin\source\repos\Snake\Snake\Snake.cpp(116,9): error C3861: CheckCollision: идентификатор не найден
